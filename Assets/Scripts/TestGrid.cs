@@ -7,32 +7,34 @@ using Utility;
 public class TestGrid : MonoBehaviour
 {
     [SerializeField] private Camera mainCamera;
-    private Grid<StringGridObject> grid;
+    private Grid<bool> grid;
+    // private Grid<StringGridObject> grid;
     
     void Start()
     {
-        grid = new Grid<StringGridObject>(5, 5, 1.5f, new Vector3(-4, 6), (Grid<StringGridObject> g, int x, int y) => new StringGridObject(g, x, y));
+        grid = new Grid<bool>(20, 10, 1f, .75f, new Vector3(-9, -5), (Grid<bool> g, int x, int y) => false);
+        // grid = new Grid<StringGridObject>(20, 10, 1f, .75f, new Vector3(-9, -5), (Grid<StringGridObject> g, int x, int y) => new StringGridObject(g, x, y));
     }
 
     private void Update()
     {
         Vector3 position = Tools.GetMouseWorldPositionWithZ(mainCamera);
-        // if (Input.GetMouseButtonDown(0))
-        // {
-        //     grid.SetGridObject(Tools.GetMouseWorldPositionWithZ(mainCamera), true);
-        // }
+        if (Input.GetMouseButtonDown(0))
+        {
+            grid.SetGridObject(Tools.GetMouseWorldPositionWithZ(mainCamera), true);
+        }
         if (Input.GetMouseButtonDown(1))
         {
             Debug.Log(grid.GetGridObject(Tools.GetMouseWorldPositionWithZ(mainCamera)));
         }
         
-        if(Input.GetKeyDown(KeyCode.A)) {grid.GetGridObject(position).AddLetter("A");}
-        if(Input.GetKeyDown(KeyCode.S)) {grid.GetGridObject(position).AddLetter("S");}
-        if(Input.GetKeyDown(KeyCode.D)) {grid.GetGridObject(position).AddLetter("D");}
-        
-        if(Input.GetKeyDown(KeyCode.Alpha1)) {grid.GetGridObject(position).AddLetter("1");}
-        if(Input.GetKeyDown(KeyCode.Alpha2)) {grid.GetGridObject(position).AddLetter("2");}
-        if(Input.GetKeyDown(KeyCode.Alpha3)) {grid.GetGridObject(position).AddLetter("3");}
+        // if(Input.GetKeyDown(KeyCode.A)) {grid.GetGridObject(position).AddLetter("A");}
+        // if(Input.GetKeyDown(KeyCode.S)) {grid.GetGridObject(position).AddLetter("S");}
+        // if(Input.GetKeyDown(KeyCode.D)) {grid.GetGridObject(position).AddLetter("D");}
+        //
+        // if(Input.GetKeyDown(KeyCode.Alpha1)) {grid.GetGridObject(position).AddLetter("1");}
+        // if(Input.GetKeyDown(KeyCode.Alpha2)) {grid.GetGridObject(position).AddLetter("2");}
+        // if(Input.GetKeyDown(KeyCode.Alpha3)) {grid.GetGridObject(position).AddLetter("3");}
     }
 }
 
