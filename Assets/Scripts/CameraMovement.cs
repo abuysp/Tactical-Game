@@ -2,11 +2,12 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Serialization;
 using Utility;
 
 public class CameraMovement : MonoBehaviour
 {
-    [SerializeField] private TilemapTest tilemapTest;
+    [SerializeField] private TilemapManager tilemapManager;
     [SerializeField] private Camera mainCamera;
     [SerializeField] private float zoomStep, minCamSize, maxCamSize;
     private float minXLimit, maxXLimit, minYLimit, maxYLimit, centerX, centerY;
@@ -15,7 +16,7 @@ public class CameraMovement : MonoBehaviour
 
     private void Start()
     {
-        var gridPositions = tilemapTest.GetGridCornersAndCenter();
+        var gridPositions = tilemapManager.GetGridCornersAndCenter();
         minXLimit = Mathf.Min(gridPositions[0].x, gridPositions[1].x);
         maxXLimit = Mathf.Max(gridPositions[2].x, gridPositions[3].x);
         minYLimit = Mathf.Min(gridPositions[0].y, gridPositions[2].y);
@@ -87,12 +88,12 @@ public class CameraMovement : MonoBehaviour
         
         // BUG: Handle snapping to center when the grid width or height is odd.
 
-        if (camHeight > tilemapTest.GetTilemapHeight() && camWidth > tilemapTest.GetTilemapWidth())
+        if (camHeight > tilemapManager.GetTilemapHeight() && camWidth > tilemapManager.GetTilemapWidth())
         {
             return new Vector3(centerX, centerY, targetPosition.z);
         }
 
-        if (camHeight > tilemapTest.GetTilemapHeight())
+        if (camHeight > tilemapManager.GetTilemapHeight())
         {
             minX = minXLimit + camWidth;
             maxX = maxXLimit - camWidth;
@@ -102,7 +103,7 @@ public class CameraMovement : MonoBehaviour
             return new Vector3(newX, centerY, targetPosition.z);
         }
         
-        if (camWidth > tilemapTest.GetTilemapWidth())
+        if (camWidth > tilemapManager.GetTilemapWidth())
         {
             minY = minYLimit + camHeight;
             maxY = maxYLimit - camHeight;

@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Utility;
 
-public class TilemapTest : MonoBehaviour
+public class TilemapManager : MonoBehaviour
 {
     [SerializeField] private Camera mainCamera;
     [SerializeField] private TilemapVisual tilemapVisual;
@@ -28,7 +28,7 @@ public class TilemapTest : MonoBehaviour
         {
             for(int j = 0; j < height; j++)
             {
-                if(i < 1 || i >= width - 1 || j < 1 || j >= height - 1)
+                if(i < 3 || i >= width - 3 || j < 3 || j >= height - 3)
                 {
                     tilemap.SetTileMapSprite(i, j, Tilemap.TilemapObject.TilemapSprite.Ground);
                 }
