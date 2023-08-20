@@ -7,11 +7,18 @@ using Utility;
 public class Grid<TGridObject>
 {
     public event EventHandler<OnGridObjectChangedEventArgs> OnGridObjectChanged;
+    public event EventHandler<OnGridObjectEditedEventArgs> OnGridObjectEdited;
 
     public class OnGridObjectChangedEventArgs : EventArgs
     {
         public int x;
         public int y;
+    }
+    public class OnGridObjectEditedEventArgs : EventArgs
+    {
+        public int x;
+        public int y;
+        public bool isEdited;
     }
 
     private int width;
@@ -82,7 +89,6 @@ public class Grid<TGridObject>
     {
         OnGridObjectChanged?.Invoke(this, new OnGridObjectChangedEventArgs { x = x, y = y });
     }
-
     public void SetGridObject(int x, int y, TGridObject targetValue)
     {
         if(x >= 0 && y >= 0 && x < width && y < height)
