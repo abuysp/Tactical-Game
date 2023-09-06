@@ -1,0 +1,1579 @@
+fileFormatVersion: 2
+guid: eb307fbbf96cc5e40a53969d3181ae12
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982221ddd5866f3468ff068381055b68
+      internalID: 1175847726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_1"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff9fe3efda6f5f489e9902fa027ce88
+      internalID: 2042009054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_2"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64963568b3b1e54ab2daede449d6669
+      internalID: -172731700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_3"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9efd188a493754fa9ee5183363808d
+      internalID: 870154421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_4"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d31149165125f47b751d3e9981bc9d
+      internalID: -1088033678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_5"
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c956a872e37e184b891478a39a2f1e7
+      internalID: 569094936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_6"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a682532684b9e840ba827629bc7ac82
+      internalID: 399255477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_7"
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f4efaac59531141a139b9a034d37f6
+      internalID: -949097211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_8"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a50477e73fc7184690236b22ab7336a
+      internalID: 1928041727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_9"
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8b62fa05eed1e42a2ee2b08b53d116
+      internalID: 1065181343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_10"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c364bb6002302fa4c9f828645e6fc9db
+      internalID: 171174341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_11"
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c40434f26413e49bb031daa98e3de6
+      internalID: 1567000479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_12"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdab3edcfe8efc4187cb91fa04c0fed
+      internalID: 1094923427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_13"
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b723f59406c3f49a12ac5d00c85a84
+      internalID: 1875146009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_14"
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497a8f55e9814fe478d68284654cbe9e
+      internalID: -1669900537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_15"
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc81b49cf67c194b8e785f69a081397
+      internalID: -864435779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_16"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccf0587465fa7f468e774f444e43832
+      internalID: -447586076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_17"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0c27277253d734aa758685383c73a0
+      internalID: -1221634762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_18"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d441ebd7465aa8841a1abfce900a91bd
+      internalID: 239055329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_19"
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd26a7566182a77418f95e45c1f843fa
+      internalID: 132895608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_20"
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46aadecee1471c4428f3e6fa00b36303
+      internalID: 307725312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_21"
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79851d9eaa4ce2a4986495a7596c84b5
+      internalID: -1660044767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_22"
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b977adc3fbe78fe4ca50ca4373f0e8b2
+      internalID: -1547039125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_23"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed755aa1b8ae0444b1add80026af58c
+      internalID: 554472867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_24"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb6c77442c56ff46ab32c55b5ddb961
+      internalID: -427912219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_25"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ab93cc115497a49b83dc0fbcde0eb2
+      internalID: -8272357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_26"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333f6e61a58055a4788cf12f9a1b11ea
+      internalID: -928087105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_27"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1397368c8c2c56946bfac41efe6ac0c6
+      internalID: -2090103116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_28"
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a647c9d370ec6943b5265a3d1fa69cf
+      internalID: -116262445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_29"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713d1b77cd7e72e49b42d0cec84da61a
+      internalID: -1933317626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_30"
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fe69095ab451a46b370bc502c80111
+      internalID: 1873465996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_31"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e5896bea331a242b689ec24c8ed5b3
+      internalID: 1610693268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_32"
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0e768d176e0ca4da7ba43a60c29ed8
+      internalID: -629318150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_33"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b987709825b315140b5b6f7ae51110f3
+      internalID: 627106331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_34"
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f985fb0ff6b8f64e8e64e0a0b1e0b8c
+      internalID: -980623768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_35"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4e5e9eec217e844880d6372e3cd9fc
+      internalID: 1707945773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_36"
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b5bbf5e2f6785458cb2b5e80fc810e
+      internalID: 524313568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_37"
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe85dc4e3ab0734f9db8b698b8e4180
+      internalID: -1522232748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_38"
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8253a4e040b3593418e9f7c9e062b5da
+      internalID: 507343607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_39"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e38afc9f0e980e42afb250ba1c6f386
+      internalID: -1370842579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_40"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8c64e438f994b4a9fbbc5b792b0f38
+      internalID: 1285307334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_41"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1943f6ea361da394494ceea1dc363b1d
+      internalID: -564132025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_42"
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354d7c5b8676a7c4ea23d3c3aea43502
+      internalID: 263217459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_43"
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756f7607ba908b7408157d4157762e8d
+      internalID: 272074165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_44"
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb5ce1a1ae7eea4cad33436d9d26ef5
+      internalID: -1806052894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_45"
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83844697e6dc3d4da7dbf1e6ceea8a5
+      internalID: -2050891815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_46"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fa197662f04484fb94d56c21b7df60
+      internalID: 1165815639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_47"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0d8b769a7577f49a65c3ba20dfa57a
+      internalID: 912632799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_48"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b69cfe97de3f94db49ba5ca5e82418
+      internalID: 454704966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_49"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f79daba2b2d784587db0831101fa37
+      internalID: -914483599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_50"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206ca98c2581b0144986d56aa0d01ebd
+      internalID: -1565068282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_51"
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5504060fdb7437642b6b51eb51938a39
+      internalID: 147911011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_52"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833aaf5a06d7c544a8077b25fc7167ba
+      internalID: 319617381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_53"
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f413e9f5cfac96468a6b56e95ed7449
+      internalID: 949244150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_54"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86e5cb13a2430c4ebd543f2482f64d7
+      internalID: -697250771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_55"
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60167dc7135d31840b488db33fdf6761
+      internalID: -1396943084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_56"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555199d99b025ac4cbc3d2f4a82bf08a
+      internalID: 1388424686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_57"
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbe4f885dea15c4a9c2028552927623
+      internalID: -426215079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_58"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352d00efb1833d6489efdfd31a2cf777
+      internalID: 551582581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_59"
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ead6b918b16f241bbb783df5882461
+      internalID: 1501107608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_60"
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929e29b8c6a1d52439693ab3498f88c7
+      internalID: 1940949162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_61"
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9043a9083d38a8947bda14cb698c0894
+      internalID: -1784178797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_62"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cd359fbb1f6594d8a31563576a8b9a
+      internalID: -1451776038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_63"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e180fc16a2d0b1f4ba376eb3904eefaf
+      internalID: -1839099486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_64"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9d24eab09ba354da3207d73b7ff51b
+      internalID: -1363508061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_65"
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98d4910b29485341a3e6ecae39b62ae
+      internalID: -701574991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_0": 1175847726
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_1": 2042009054
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_10": 171174341
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_11": 1567000479
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_12": 1094923427
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_13": 1875146009
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_14": -1669900537
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_15": -864435779
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_16": -447586076
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_17": -1221634762
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_18": 239055329
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_19": 132895608
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_2": -172731700
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_20": 307725312
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_21": -1660044767
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_22": -1547039125
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_23": 554472867
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_24": -427912219
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_25": -8272357
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_26": -928087105
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_27": -2090103116
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_28": -116262445
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_29": -1933317626
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_3": 870154421
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_30": 1873465996
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_31": 1610693268
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_32": -629318150
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_33": 627106331
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_34": -980623768
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_35": 1707945773
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_36": 524313568
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_37": -1522232748
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_38": 507343607
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_39": -1370842579
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_4": -1088033678
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_40": 1285307334
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_41": -564132025
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_42": 263217459
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_43": 272074165
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_44": -1806052894
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_45": -2050891815
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_46": 1165815639
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_47": 912632799
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_48": 454704966
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_49": -914483599
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_5": 569094936
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_50": -1565068282
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_51": 147911011
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_52": 319617381
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_53": 949244150
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_54": -697250771
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_55": -1396943084
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_56": 1388424686
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_57": -426215079
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_58": 551582581
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_59": 1501107608
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_6": 399255477
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_60": 1940949162
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_61": -1784178797
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_62": -1451776038
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_63": -1839099486
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_64": -1363508061
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_65": -701574991
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_7": -949097211
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_8": 1928041727
+      "ate\u015F b\xFCy\xFCc\xFC t\xFCm hareket_9": 1065181343
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
